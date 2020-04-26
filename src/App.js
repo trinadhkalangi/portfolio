@@ -23,7 +23,7 @@ function App() {
           <div className="mw9 center ph3-ns">
             <div className="cf ph2-ns">
               <div className="fl w-100 w-third-ns pa2">
-                <div href="#" className="link dim black mw-100 dt hide-child ba b--light-green pa4 br2 pointer bg-washed-green" style={{backgroundImage: 'card_bg', backgroundSize: 'cover'}}>
+                <div href="./pepper.js" className="link dim black mw-100 dt hide-child ba b--light-green pa4 br2 pointer bg-washed-green" style={{backgroundImage: 'card_bg', backgroundSize: 'cover'}}>
                 <img src={card_bg}/>
                   <h2>Pepper</h2>
                   <p className="w-60 w-50-ns">Smart expense filing and tracking for employees.</p>
